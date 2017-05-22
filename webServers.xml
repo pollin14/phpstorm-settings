@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e289706-c304-4d39-87a0-00de46fbe995" name="palacio" url="http://192.168.33.13">
+        <fileTransfer host="192.168.33.13" port="21" rootFolder="/tmp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
