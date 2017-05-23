@@ -1,10 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="6e289706-c304-4d39-87a0-00de46fbe995" name="palacio" url="http://192.168.33.13">
-        <fileTransfer host="192.168.33.13" port="21" rootFolder="/tmp">
+      <webServer id="6e289706-c304-4d39-87a0-00de46fbe995" name="palacio" url="http://ftp.elpalaciodehierro.dev">
+        <fileTransfer host="ftp.elpalaciodehierro.dev" port="21" rootFolder="/var/www/elpalaciodehierro.dev">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+            <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
