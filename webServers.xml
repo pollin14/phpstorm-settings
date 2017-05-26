@@ -9,6 +9,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="cb50cecd-1ff4-43c1-8634-113504b92c4c" name="liizt" url="http://ftp.liizt.dev">
+        <fileTransfer host="ftp.liizt.dev" port="21" rootFolder="/var/www/liizt.dev">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
