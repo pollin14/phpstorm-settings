@@ -26,6 +26,14 @@
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>l</mask>
+      <mask>la</mask>
+      <mask>lay</mask>
+      <mask>layout</mask>
+      <mask>layout.</mask>
+      <mask>layout.xml</mask>
+      <mask>*layout.xml</mask>
     </recentFileMasks>
   </component>
 </application>
