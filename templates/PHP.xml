@@ -1,7 +1,8 @@
 <templateSet group="PHP">
-  <template name="eco" value="&lt;?php echo $END$ ?&gt;" description="'echo' in line statement" toReformat="true" toShortenFQNames="true">
+  <template name="echo" value="&lt;?php echo $END$ ?&gt;" description="'echo' in line statement" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
+      <option name="PHP Statement" value="true" />
     </context>
   </template>
   <template name="__" value="&lt;?php echo $this-&gt;__($END$) ?&gt;" description="Add translation funcion with echo in template" toReformat="false" toShortenFQNames="true">
