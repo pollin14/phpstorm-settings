@@ -1,7 +1,9 @@
 <application>
   <component name="XPathView.XPathViewPlugin">
     <option name="SEARCH_SCOPE">
-      <SearchScope scope-name="Current File" type="CUSTOM" />
+      <SearchScope scope-name="Current File" type="CUSTOM">
+        <moduleName>palacioviejos</moduleName>
+      </SearchScope>
     </option>
   </component>
 </application>
