@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="magerun" type="PHP" />
       <mapping pattern="Echoo/DBScript/config.xml" type="PLAIN_TEXT" />
       <mapping pattern=".ansible.cfg" type="PLAIN_TEXT" />
       <mapping pattern="sess_36052o3b09tfn439jnb25q6o50" type="PLAIN_TEXT" />
