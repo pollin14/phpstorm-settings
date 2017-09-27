@@ -28,14 +28,14 @@
       <mask>*url*</mask>
       <mask>*url</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.hphp</mask>
-      <mask>*.php</mask>
       <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
