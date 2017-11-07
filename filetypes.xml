@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="develop" type="Bash" />
+      <mapping ext="mjml" type="HTML" />
       <mapping pattern="magerun" type="PHP" />
       <mapping pattern="sess_36052o3b09tfn439jnb25q6o50" type="PLAIN_TEXT" />
       <mapping pattern=".yakpro-po-directory" type="PLAIN_TEXT" />
