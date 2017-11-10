@@ -3,17 +3,18 @@
     <extensionMap>
       <mapping pattern="develop" type="Bash" />
       <mapping ext="mjml" type="HTML" />
+      <mapping ext="default" type="Literate CoffeeScript" />
       <mapping pattern="magerun" type="PHP" />
       <mapping pattern="sess_36052o3b09tfn439jnb25q6o50" type="PLAIN_TEXT" />
       <mapping pattern=".yakpro-po-directory" type="PLAIN_TEXT" />
       <mapping pattern="Echoo/DBScript/config.xml" type="PLAIN_TEXT" />
+      <mapping pattern="Awrma/RmaController.php" type="PLAIN_TEXT" />
       <mapping pattern="sess_djfg2g1jvkpf221e7qpp8u0532" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".ansible.cfg" type="PLAIN_TEXT" />
-      <mapping pattern="Awrma/RmaController.php" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="flag" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="flag" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping pattern="*.xml.j2" type="XML" />
