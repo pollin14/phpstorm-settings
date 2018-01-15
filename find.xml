@@ -5,10 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*..j</mask>
-      <mask>*..</mask>
-      <mask>.</mask>
-      <mask>*.phtm</mask>
       <mask>l</mask>
       <mask>la</mask>
       <mask>lay</mask>
@@ -31,8 +27,12 @@
       <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
+      <mask>*.html.ph</mask>
+      <mask>*.html.php</mask>
+      <mask>*.html.</mask>
+      <mask>*.html</mask>
+      <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
